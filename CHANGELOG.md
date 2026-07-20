@@ -2,7 +2,7 @@
 
 ### Fixes
 
-- Allow dropping a column that has governed tags ([#PR](https://github.com/databricks/dbt-databricks/pull/PR) resolves [#1323](https://github.com/databricks/dbt-databricks/issues/1323))
+- Allow dropping a column that has governed tags ([#PR](https://github.com/databricks/dbt-databricks/pull/1597) resolves [#1323](https://github.com/databricks/dbt-databricks/issues/1323))
 - Handle missing or empty view-definition metadata when creating materialized views from streaming tables or newly-created materialized views (thanks @aarushisingh04!) ([#1462](https://github.com/databricks/dbt-databricks/pull/1462) resolves [#1459](https://github.com/databricks/dbt-databricks/issues/1459))
 
 ## dbt-databricks 1.12.2 (Jul 9, 2026)
